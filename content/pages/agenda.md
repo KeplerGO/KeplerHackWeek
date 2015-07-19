@@ -7,6 +7,6 @@ Slug: Projects
 
 To facilitate preparation for the hack event, below are a list of ideas for potential hacks.
 
-* Something something populations...
-* something else
-* the effects of binaries...
+* We should list a few ideas here something else
+* Just a few bullets to start with should be fine
+* We can then add more ideas as time goes on
