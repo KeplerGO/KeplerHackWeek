@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = (u'Kepler Hack Week, October 2015')
+SITENAME = (u'ExoPop Hack: Kepler\'s Exoplanet Populations Hack Week')
 SITEURL = '/KeplerHackWeek'
 
 THEME = "./tom-themes/gum"
@@ -54,7 +54,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
 #    ('Home', '/index.html'),
     ('Venue', '/Venue'),
-    ('Agenda', '/Agenda'),
+    ('Potential Project', '/Projects'),
 #    ('Virtual Attendance', '/Callin'),
     ('Application and Registration', '/Apply'),
 )

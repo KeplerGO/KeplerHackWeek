@@ -1,2 +1,2 @@
-# K2MicrolensingWorkshop
-Pelican webpages for K2 microlensing workshop in May 2015
+# KeplerHackWeek
+Pelican webpages for Kepler Hack Week in October 2015

@@ -11,6 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'http://keplerscience.arc.nasa.gov/KeplerHackWeek'
+SITEURL = 'http://keplergo.github.io/KeplerHackWeek'
 RELATIVE_URLS = False
 
 #FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -26,7 +27,7 @@ DELETE_OUTPUT_DIRECTORY = True
 MENUITEMS = (
 #    ('Home', '/index.html'),
     ('Venue', '/KeplerHackWeek/Venue'),
-    ('Agenda', '/KeplerHackWeek/Agenda'),
+    ('Potential Projects', '/KeplerHackWeek/Projects'),
 #    ('Virtual Attendance', '/K2MicrolensingWorkshop/Callin'),
     ('Application and Registration', '/KeplerHackWeek/Apply'),
 )

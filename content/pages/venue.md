@@ -1,21 +1,27 @@
-Title: SETI Institute
-Date: 2015-04-02
+Title: NASA Ames Research Center
+Date: 2015-07-19
 sortorder: 2
 pageorder: 2
 Category: Venue
 Slug: Venue
 
-May 7-8, 2015
+Oct 13-15, 2015
 ---
 
-The workshop will take place at the [SETI Institute](http://www.seti.org/seti-institute/about-seti/who-we-are/where-we-are), in Mountain View, California. The workshop will take place in the conference room. The address is 189 Bernardo Ave, Suite 100 Mountain View, CA 94043.
+The Hack Event will take place at NASA Ames Research Center, in Silicon Valley, California. We will host the event in the conference room of building N-232 at NASA Ames. 
 
-The meeting will begin on Thursday, May 7 at 9.00am and end on Friday May 8 at 12.00pm.
+The meeting will begin on Tuesday, October 13 and end on Thursday October 15.
 
-The nearest airport to the SETI Institute is Norman Y. Mineta San Jose International Airport (SJC). The nearest alternative to SJC is San Francisco International Airport (SFO). 
+The nearest airport to the SETI Institute is Norman Y. Mineta San Jose International Airport (SJC). The nearest alternative to SJC is San Francisco International Airport (SFO).  
 
-<a href="https://www.google.com/maps/place/189+Bernardo+Ave,+Suite+100+Mountain+View,+CA+94043/"><img src="http://maps.googleapis.com/maps/api/staticmap?center=189+Bernardo+Ave,+Suite+100+Mountain+View,+CA+94043&zoom=9&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7Clabel:S%7C189+Bernardo+Ave,+Suite+100+Mountain+View,+CA+94043" alt="Google Map of 189 Bernardo Ave, Suite 100 Mountain View, CA 94043" width="600" height="400">
+<a href="https://www.google.com/maps/place/NASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043/">
+<img src="http://maps.googleapis.com/maps/api/staticmap?center=NASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043&zoom=9&scale=2&size=600x400&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7Clabel:A%7CNASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043" width="600" height="400">
+</a>
 
-A [list of local hotels](http://naccenter.arc.nasa.gov/links.php#hotel) is provided by the NASA Ames Conference Center. 
+NASA Ames Research Center is located in Mountain View, California and makes up part of Moffett Field. NASA Ames can easily be accessed by taking Highway US 101 either north from San Jose or south from San Francisco.
 
-<a href="https://www.google.com/maps/place/189+Bernardo+Ave,+Suite+100+Mountain+View,+CA+94043/"><img src="http://maps.googleapis.com/maps/api/staticmap?center=189+Bernardo+Ave,+Suite+100+Mountain+View,+CA+94043&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7Clabel:S%7C189+Bernardo+Ave,+Suite+100+Mountain+View,+CA+94043" alt="Google Map of 189 Bernardo Ave, Suite 100 Mountain View, CA 94043" width="600" height="400">
+Local accommodation includes the NASA Lodge on site here at Moffett Field (call +1-650-603-7100). A [list of local hotels](http://naccenter.arc.nasa.gov/links.php#hotel) is provided by the NASA Ames Conference Center. 
+
+<a href="https://www.google.com/maps/place/NASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043/">
+<img src="http://maps.googleapis.com/maps/api/staticmap?center=NASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043&zoom=12&scale=2&size=600x400&maptype=roadmap&format=png&visual_refresh=true&markers=size:small%7Ccolor:red%7Clabel:A%7CNASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043" width="600" height="400">
+</a>
