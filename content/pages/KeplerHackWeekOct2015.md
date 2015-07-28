@@ -40,21 +40,25 @@ Hack Week will provide a forum for project scientists and community researchers 
 #### Format
 There will be defined work blocks, but no specific agenda and no formal presentations. The scientific organizing committee will help to facilitate the organization of the group into smaller teams working both specific and open-ended problems. The Kepler project office will provide relevant information well in advance of the meeting in the form of literature references, project documentation, and guides to the public archives.  Teams will share progress at the end of each day.
 
-##### Several Kepler team members will participate, including:
+##### Several Kepler team members will participate, including (but not limited to):
 * Natalie Batalha, Kepler Mission Scientist, NASA Ames Research Center
-    + Kepler Science Leadership (integrity of occurrence rate products)
+    + Responsible for scientific oversight of occurrence rate products
 * Michael Haas, Science Office (SO) Director, NASA Ames Research Center
-    + Kepler Science Leadership (delivery of occurrence rate products)
+    + Responsible for technical direction of occurrence rate product deliveries
 * Christopher Burke, SO Support Scientist, SETI Institute
     + Specializes in generation of occurrence rate products and development of methodologies
 * Steve Bryson, SO Support Scientist, NASA Ames Research Center
     + Specializes in background contaminants and false positive characterization
+* Joe Catanzarite, SOC Scientific Programmer, SETI Institute
+    + Specializes in catalog generation via machine learning algorithms
 * Jessie Christiansen, Kepler Participating Scientist, NExScI/CalTech
     + Specializes in transit injection and detection completeness
 * Jeff Coughlin, SO Support Scientist, SETI Institute
     + Specializes in catalog generation and automated vetting
 * Tim Morton, Kepler Participating Scientist, Princeton University
     + Specializes in astrophysical false positive probabilities
+* Susan Mullally, Archive Scientist, SETI Institute
+    + Specializes in Kepler data products hosted at NASA's Exoplanet Archive
 
 ##### Six invited participants will help to facilitate the collaborative work:
 * Andrew Howard, University of Hawaii
