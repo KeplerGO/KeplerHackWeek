@@ -20,7 +20,7 @@ The nearest airport to the SETI Institute is Norman Y. Mineta San Jose Internati
 
 NASA Ames Research Center is located in Mountain View, California and makes up part of Moffett Field. NASA Ames can easily be accessed by taking Highway US 101 either north from San Jose or south from San Francisco.
 
-Local accommodation includes the NASA Lodge on site here at Moffett Field (call +1-650-603-7100). A [list of local hotels](http://naccenter.arc.nasa.gov/links.php#hotel) is provided by the NASA Ames Conference Center. 
+Local accommodation includes the NASA Lodge on site here at Moffett Field (call +1-650-603-7100). A [list of local hotels](http://naccenter.arc.nasa.gov/links.php#hotel) is provided by the NASA Ames Conference Center.  The Kepler project is working to book a block of rooms for out of town participants.  Check back often for more information.  All registered participants will receive email updates about lodging as information becomes available.
 
 <a href="https://www.google.com/maps/place/NASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043/">
 <img src="http://maps.googleapis.com/maps/api/staticmap?center=NASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043&zoom=12&scale=2&size=600x400&maptype=roadmap&format=png&visual_refresh=true&markers=size:small%7Ccolor:red%7Clabel:A%7CNASA+Ames+Bldg+N-232,+Mountain+View,+CA+94043" width="600" height="400">
