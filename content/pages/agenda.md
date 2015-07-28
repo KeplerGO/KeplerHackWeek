@@ -5,8 +5,14 @@ pageorder: 1
 Category: Potential Projects
 Slug: Projects
 
-To facilitate preparation for the hack event, below are a list of ideas for potential hacks.
+To facilitate preparation for the event, below are a list of ideas for potential hacks.  Links to documentation and useful publications will be made available as the event approaches.  Check back often for updates.
 
-* We should list a few ideas here something else
-* Just a few bullets to start with should be fine
-* We can then add more ideas as time goes on
+* Compute eta-Earth for G, K, and M stars
+* Compare occurrence rates based on different methodologies
+* Compare occurrence rates derived from different catalogs
+* Generate mock planet populations to serve as ground truth
+* Examine detection contours for different stellar populations
+* Quantify improvements with higher fidelity products
+* Explore the false alarm population and possible mitigations
+* Assess the need for star-by-star detection efficiency measurements
+* Execute sensitivity analyses for various input assumptions
