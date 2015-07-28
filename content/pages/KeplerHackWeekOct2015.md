@@ -31,7 +31,7 @@ We expect our three days together to sow seeds of publishable results. We also e
 #### Background
 The scientific objective of NASA's Kepler Mission is to explore the diversity of planets and planetary systems. Its legacy will be a catalog of discoveries sufficient for computing planet occurrence rates as a function of size, orbit, and star type for planets orbiting within 1AU of their host stars. The mission has made significant progress toward achieving that goal. Interim data products have allowed scientists to develop and test population inference tools. We've learned that small planets are more common than large planets interior to 1 AU. We see tantalizing hints that M-type stars harbor larger numbers of small planets than G-type stars. And eta-Earth for the M-type stars hovers around 0.2 for the recent-Venus/early-Mars habitable zone and planets between 1 and 1.5 Re.
 
-Soon, researchers will be able to exercise our population inference tools on Kepler's final planet catalog. The project has a three-year closeout period that started October 2014 and ends September 2017. During the closeout period, the mission will implement final improvements to the detection pipeline, generate the final exoplanet catalog, and measure the detection completeness and reliability. The project is rapidly converging on a comprehensive set of measurements expected to yield the most complete picture of exoplanet populations ever formed.
+Soon, researchers will be able to exercise their population inference tools on Kepler's final planet catalog. The project has a three-year closeout period that started October 2014 and ends September 2017. During the closeout period, the mission will implement final improvements to the detection pipeline, generate the final exoplanet catalog, and measure the detection completeness and reliability. The project is rapidly converging on a comprehensive set of measurements expected to yield the most complete picture of exoplanet populations ever formed.
 
 The closeout period is a critical time for establishing Kepler's legacy data products and achieving the mission's high-level science objective: determining the frequency of potentially habitable earth-size planets. We recognize that the astronomical community will continue to characterize Kepler planets as well as the stars they orbit for many years beyond the Kepler closeout period. As the knowledge base grows, the community should be equipped to revise planet occurrence rates and provide more reliable estimates of eta-Earth. The Kepler Mission is committed to providing measurements and data products that remain relevant for many years to come.
 
@@ -42,19 +42,19 @@ There will be defined work blocks, but no specific agenda and no formal presenta
 
 ##### Several Kepler team members will participate, including:
 * Natalie Batalha, Kepler Mission Scientist, NASA Ames Research Center
-  - Kepler Science Leadership (integrity of occurrence rate products)
+    + Kepler Science Leadership (integrity of occurrence rate products)
 * Michael Haas, Science Office (SO) Director, NASA Ames Research Center
-  - Kepler Science Leadership (delivery of occurrence rate products)
+    + Kepler Science Leadership (delivery of occurrence rate products)
 * Christopher Burke, SO Support Scientist, SETI Institute
-  - Specializes in generation of occurrence rate products and development of methodologies
+    + Specializes in generation of occurrence rate products and development of methodologies
 * Steve Bryson, SO Support Scientist, NASA Ames Research Center
-  - Specializes in background contaminants and false positive characterization
+    + Specializes in background contaminants and false positive characterization
 * Jessie Christiansen, Kepler Participating Scientist, NExScI/CalTech
-  - Specializes in transit injection and detection completeness
+    + Specializes in transit injection and detection completeness
 * Jeff Coughlin, SO Support Scientist, SETI Institute
-  - Specializes in catalog generation and automated vetting
+    + Specializes in catalog generation and automated vetting
 * Tim Morton, Kepler Participating Scientist, Princeton University
-  - Specializes in astrophysical false positive probabilities
+    + Specializes in astrophysical false positive probabilities
 
 ##### Six invited participants will help to facilitate the collaborative work:
 * Andrew Howard, University of Hawaii
