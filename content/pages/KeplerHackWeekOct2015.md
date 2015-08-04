@@ -8,7 +8,7 @@ Slug: Home
 save_as: index.html
 
 * The NASA Kepler mission is hosting an Exoplanet Populations Hack Event Tuesday October 13 through Thursday October 15, 2015.
-* The [venue will be Builing N232](/KeplerHackWeek/Venue), at NASA Ames Research Center, California. 
+* The [venue will be Building N232](/KeplerHackWeek/Venue), at NASA Ames Research Center, California. 
 * Attendance is limited to 25 - 30 participants, potential attendees will need to complete an [application form](/KeplerHackWeek/Apply).
 * The registration deadline is for US citizens and permanent residents is September 15th. The deadline for foreign nationals is August 15th. However, but space is limited so apply early.
 
@@ -58,7 +58,7 @@ There will be defined work blocks, but no specific agenda and no formal presenta
 * Tim Morton, Kepler Participating Scientist, Princeton University
 <br>*Specializes in astrophysical false positive probabilities*
 * Susan Mullally, Archive Scientist, SETI Institute
-<br>*Specializes in Kepler data products hosted at NASA's Exoplanet A*rchive
+<br>*Specializes in Kepler data products hosted at NASA's Exoplanet Archive*
 
 ##### Six invited participants will help to facilitate the collaborative work:
 * Andrew Howard, University of Hawaii
