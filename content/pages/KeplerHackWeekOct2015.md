@@ -1,5 +1,5 @@
 Title: Important Information
-Date: 2015-07-28
+Date: 2015-08-04
 Author: Thomas Barclay
 sortorder: 1
 pageorder: 1
@@ -10,14 +10,14 @@ save_as: index.html
 * The NASA Kepler mission is hosting an Exoplanet Populations Hack Event Tuesday October 13 through Thursday October 15, 2015.
 * The [venue will be Builing N232](/KeplerHackWeek/Venue), at NASA Ames Research Center, California. 
 * Attendance is limited to 25 - 30 participants, potential attendees will need to complete an [application form](/KeplerHackWeek/Apply).
-* The registration deadline is September 4, 2015 but space is limited so apply early.
+* The registration deadline is for US citizens and permanent residents is September 15th. The deadline for foreign nationals is August 15th. However, but space is limited so apply early.
 
 ---
 
 Motivation for this workshop
 ---
 #### Summary
-<img style="float: right; padding: 15px" src="http://www.nasa.gov/sites/default/files/kepler-candidates-lined-up-4.jpg" width="450" height="450">
+<img style="float: right; padding: 15px" src="images/PlanetDesktop16.png" width="480" height="300">
 NASA's Kepler Mission invites scientists actively pursuing research on exoplanet populations to a three-day collaborative working meeting at NASA Ames Research Center, October 13-15. Participants will learn about Kepler occurrence rate products, write and execute code, compare and interpret results, brainstorm and strategize -- all in real time with colleagues interested in similar research problems.
 
 The objective is to create a collaborative work space to experiment with Kepler's discovery catalog and the associated occurrence rate products together with the experts responsible for producing those products. In the spirit of a [hack event](https://en.wikipedia.org/wiki/Hackathon), participants will design their own activities based on common interests. We envision breakout groups studying spectral type dependencies, eta-earth estimates, comparisons between different methodologies, architecture demographics, sensitivity to various input assumptions, etc. Kepler project personnel will be on-hand both as active participants and listeners. We hope to collect constructive suggestions and advice from the community as they utilize the data products.
