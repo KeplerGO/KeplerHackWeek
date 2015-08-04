@@ -35,30 +35,30 @@ Soon, researchers will be able to exercise their population inference tools on K
 
 The closeout period is a critical time for establishing Kepler's legacy data products and achieving the mission's high-level science objective: determining the frequency of potentially habitable earth-size planets. We recognize that the astronomical community will continue to characterize Kepler planets as well as the stars they orbit for many years beyond the Kepler closeout period. As the knowledge base grows, the community should be equipped to revise planet occurrence rates and provide more reliable estimates of eta-Earth. The Kepler Mission is committed to providing measurements and data products that remain relevant for many years to come.
 
-Hack Week will provide a forum for project scientists and community researchers to interact. Through real-time collaborative work on interesting astrophysical problems related to exoplanet populations, Hack Week will enable community feedback to ensure the lasting value of the Kepler mission legacy.
+The hack event will provide a forum for project scientists and community researchers to interact. Through real-time collaborative work on interesting astrophysical problems related to exoplanet populations, the hack event will enable community feedback to ensure the lasting value of the Kepler mission legacy.
 
 #### Format
 There will be defined work blocks, but no specific agenda and no formal presentations. The scientific organizing committee will help to facilitate the organization of the group into smaller teams working both specific and open-ended problems. The Kepler project office will provide relevant information well in advance of the meeting in the form of literature references, project documentation, and guides to the public archives.  Teams will share progress at the end of each day.
 
 ##### Several Kepler team members will participate, including (but not limited to):
 * Natalie Batalha, Kepler Mission Scientist, NASA Ames Research Center
-    + Responsible for scientific oversight of occurrence rate products
+<br>*Responsible for scientific oversight of occurrence rate products*
 * Michael Haas, Science Office (SO) Director, NASA Ames Research Center
-    + Responsible for technical direction of occurrence rate product deliveries
+<br>*Responsible for technical direction of occurrence rate product deliveries*
 * Christopher Burke, SO Support Scientist, SETI Institute
-    + Specializes in generation of occurrence rate products and development of methodologies
+<br>*Specializes in generation of occurrence rate products and development of methodologies*
 * Steve Bryson, SO Support Scientist, NASA Ames Research Center
-    + Specializes in background contaminants and false positive characterization
+<br>*Specializes in background contaminants and false positive characterization*
 * Joe Catanzarite, SOC Scientific Programmer, SETI Institute
-    + Specializes in catalog generation via machine learning algorithms
+<br>*Specializes in catalog generation via machine learning algorithms*
 * Jessie Christiansen, Kepler Participating Scientist, NExScI/CalTech
-    + Specializes in transit injection and detection completeness
+<br>*Specializes in transit injection and detection completeness*
 * Jeff Coughlin, SO Support Scientist, SETI Institute
-    + Specializes in catalog generation and automated vetting
+<br>*Specializes in catalog generation and automated vetting*
 * Tim Morton, Kepler Participating Scientist, Princeton University
-    + Specializes in astrophysical false positive probabilities
+<br>*Specializes in astrophysical false positive probabilities*
 * Susan Mullally, Archive Scientist, SETI Institute
-    + Specializes in Kepler data products hosted at NASA's Exoplanet Archive
+<br>*Specializes in Kepler data products hosted at NASA's Exoplanet A*rchive
 
 ##### Six invited participants will help to facilitate the collaborative work:
 * Andrew Howard, University of Hawaii

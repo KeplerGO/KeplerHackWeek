@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = (u'ExoPop Hack: Kepler\'s Exoplanet Populations Hack Week')
+SITENAME = (u'Kepler Exoplanet Populations Hack Week')
 SITEURL = '/KeplerHackWeek'
 
 THEME = "./tom-themes/gum"
